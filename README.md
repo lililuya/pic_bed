@@ -1,2 +1,8 @@
 # pic_bed
-pic_bed for blog
+```
+# commit 
+git add .
+git commit -m "update images"
+# push to github
+git push
+```
